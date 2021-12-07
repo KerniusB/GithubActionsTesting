@@ -2,13 +2,11 @@ package org.example;
 
 /**
  * Hello world!
- *
  */
-public class App
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!!!" );
-        System.out.println( "Testing github actions" );
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello World!!!");
+        System.out.println("Testing github actions");
+        System.out.println("Test 2");
     }
 }
