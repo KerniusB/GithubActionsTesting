@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!!!" );
         System.out.println( "Testing github actions" );
+        System.out.println( "Test 2" );
     }
 }
